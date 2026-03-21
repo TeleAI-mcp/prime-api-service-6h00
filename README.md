@@ -1,2 +1,3 @@
-# prime-api-service-6h00
+# Prime Api Service 6H00
+
 A repository to test GitHub automation for issue management.
